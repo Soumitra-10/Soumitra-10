@@ -10,8 +10,6 @@ I enjoy building projects, exploring web technologies, and solving coding proble
 
 # 🚀 Tech Stack
 
-# 🚀 Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,cpp,python" />
 </p>
