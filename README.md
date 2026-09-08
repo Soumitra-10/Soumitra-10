@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soumitra Singha
 
 🎓 CSE (AI/ML) Student  
-💻 Aspiring Web Developer & Frontend Developer  
+💻 Aspiring Full Stack Developer 
 
 I am passionate about programming and continuously improving my technical skills.  
 I enjoy building projects, exploring web technologies, and solving coding problems.
